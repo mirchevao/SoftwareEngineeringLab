@@ -8,6 +8,7 @@ void printMyName () {
 
 void printMyIndex () {
 	//TODO
+cout<<171294<<endl;
 }
 
 int main () {
